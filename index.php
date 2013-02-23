@@ -13,7 +13,6 @@ include 'template.php';
 $template = new template();
 
 $template->assign('username', 'Tauseef');
-$template->assign('username', 'Tauseef');
 $template->assign('firstname', 'Tauseef');
 $template->assign('lastname', 'Jamadar');
 $template->assign('address', '717 Hazel Street');
