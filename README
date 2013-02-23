@@ -1,0 +1,13 @@
+
+February 23, 2013 10:10 AM
+
+I feel templating is very efficient way of writing code. 
+Just thought of creating a basic template engine in php.
+
+More to add: 
+
+1. caching
+2. conditioning
+3. (complex templates)
+
+Credits : Phpacademy
